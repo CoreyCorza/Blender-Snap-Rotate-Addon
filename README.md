@@ -7,8 +7,5 @@ Download zip file from releases and install like any normal addon in Blender
 - Press F or configured shortcut to activate
 - Select destination
 
-
-
-
-https://github.com/user-attachments/assets/b0de9182-9c1f-4835-a2b7-44e20e560aea
+https://github.com/user-attachments/assets/96ae5b54-7653-41ae-a83a-27e839cc1d20
 
