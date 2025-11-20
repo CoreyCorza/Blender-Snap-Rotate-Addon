@@ -4,7 +4,6 @@ Download zip file from releases and install like any normal addon in Blender
 
 # Description
 Snap and rotate an object to vert/edge center/face center in fewest clicks possible without opening any menus or dropdowns.
-Super efficient for modelers.
 
 # Usage
 - Select the object you want to snap and rotate
